@@ -102,7 +102,7 @@ async def main():
     print("*** СКРИПТ 15.3 (STABLE & DYNAMIC) ЗАПУЩЕН ***")
     check_balance()
     
-    # Инициализация (тихий режим)
+    # Инициализация 
     for p in Path(WATCH_DIR).glob("*.json"):
         try:
             with open(p, 'rb') as f:

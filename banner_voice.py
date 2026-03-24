@@ -8,7 +8,7 @@ WATCH_DIR = r'C:\Users\1\Downloads\Mount & Blade II Bannerlord (2022)\Mount & Bl
 MALE_BASES = ["ru-RU-DmitryNeural", "ru-RU-YuryNeural", "en-US-AndrewMultilingualNeural", "en-AU-WilliamMultilingualNeural"]
 FEMALE_BASES = ["ru-RU-SvetlanaNeural", "ru-RU-EkaterinaNeural", "en-US-AvaMultilingualNeural", "en-US-EmmaMultilingualNeural"]
 
-# Сетка тюнинга - расширил для максимального разнообразия
+
 PITCHES = ["-12Hz", "-10Hz", "-7Hz", "-4Hz", "-2Hz", "+0Hz", "+2Hz", "+4Hz", "+7Hz", "+10Hz", "+12Hz"] 
 RATES = ["-10%", "-7%", "-4%", "+0%", "+4%", "+7%", "+10%"]
 
